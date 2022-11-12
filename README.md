@@ -3,7 +3,6 @@
 
 <h4>🚀I Am Developer And a Editor</b></h4>
 <div align="center">
-    <a href="https://discord.com/users/1005112531431469136" title="Discord Account"><img src="https://lanyard-profile-readme.vercel.app/api/1005112531431469136"></a>
 </div>
 <h3>Programs and Languages I Use</h3>
 
